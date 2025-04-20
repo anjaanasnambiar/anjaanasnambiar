@@ -1,6 +1,7 @@
 # Anjana Sasi Nambiar
 
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/anjaanasnambiar?v=4" width="200" height="200" style="border-radius:50%;" alt="Profile Picture"/>>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anjanasnambiar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjanasnambiar)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Anjana_S_Nambiar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
@@ -15,8 +16,7 @@
 
 ## About Me
 
-Data Scientist and AI Engineer with research experience in deep learning applications for audio generation, dementia detection, and natural language processing. Currently pursuing a Master's in Business Analytics at UMass Amherst with a strong foundation in Computer Science and AI from my undergraduate studies.
-
+A Graduate Student specializing in Business Analytics, AI and Data Science,. I am passionate about leveraging technology to drive innovation, solve complex problems, and create impactful solutions. My experience spans machine learning, natural language processing, cloud computing, and business analytics, where I combine analytical thinking, creativity, and technical expertise to develop scalable and efficient solutions.
 
 ## Research
 
