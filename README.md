@@ -30,12 +30,12 @@ A Graduate Student specializing in Business Analytics, AI and Data Science,. I a
 
 - **Exploring the Power of Deep Learning for Seamless Background Audio Generation in Videos** | *IEEE Access, 2022*
   - Developed deep learning models achieving 89% accuracy with Temporal Segment Networks (TSN)
-  - [Read Paper](https://doi.org/10.1109/ACCESS.2022.10306607)
+  - [Read Paper](https://ieeexplore.ieee.org/abstract/document/10306607)
 
 - **Comparative Study of Deep Classifiers for Early Dementia Detection Using Speech Transcripts** | *IEEE, 2022*
   - Achieved 81.2% accuracy with BERT+BiLSTM models
   - Implemented various transformer models and word embedding techniques
-  - [Read Paper](https://doi.org/10.1109/ACCESS.2022.10306607)
+  - [Read Paper](https://ieeexplore.ieee.org/abstract/document/10039705)
 
 - **Design of Super Mario Game Using Finite State Machines** | *Computer Networks and Inventive Communication Technologies, 2022*
   - Applied formal language theory to game development
