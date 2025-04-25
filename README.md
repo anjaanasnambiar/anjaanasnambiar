@@ -1,18 +1,24 @@
 # Anjana Sasi Nambiar
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/anjaanasnambiar?v=4" width="200" height="200" style="border-radius:50%;" alt="Profile Picture"/>>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anjanasnambiar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjanasnambiar)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Anjana_S_Nambiar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
 [![Website](https://img.shields.io/badge/Website-Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.yourdomain.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
+</div>
+
 ### Contact
+
+<div align="center">
+
+
 [![Email UMass](https://img.shields.io/badge/Email-anjanaasnambiar%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asnambiar@umass.edu)
 [![Email Personal](https://img.shields.io/badge/Email-anjanasasinambiar%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.personal@gmail.com)
 
 </div>
+
 
 ## About Me
 
