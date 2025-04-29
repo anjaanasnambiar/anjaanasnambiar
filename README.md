@@ -3,9 +3,9 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anjanasnambiar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjanasnambiar)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Anjana_S_Nambiar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
-[![Website](https://img.shields.io/badge/Website-Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.yourdomain.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Anjana_S_Nambiar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://tinyurl.com/googlescholar-asnambiar)
+[![Website](https://img.shields.io/badge/Website-Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.anjanasnambiar.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anjaanasnambiar/anjaanasnambiar/README.md)
 
 </div>
 
