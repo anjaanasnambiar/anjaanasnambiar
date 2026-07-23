@@ -1,4 +1,3 @@
-<table width="100%"><tr><th bgcolor="#07070f" align="left">
 
 <div align="center">
 
