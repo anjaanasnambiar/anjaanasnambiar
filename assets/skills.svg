@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" width="720" height="380">
+<style>
+  @keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+  .kw{fill:#e0aaff}.str{fill:#93c5fd}.cls{fill:#b8a5ff}.br{fill:#7c6bc4}.tx{fill:#e8e8f0}
+</style>
+<rect width="720" height="380" fill="#07070f" rx="12"/>
+<rect width="720" height="32" fill="#0d0d1c" rx="12"/><rect y="20" width="720" height="12" fill="#0d0d1c"/>
+<circle cx="18" cy="16" r="5" fill="#ff5f57"/><circle cx="36" cy="16" r="5" fill="#ffbd2e"/><circle cx="54" cy="16" r="5" fill="#28c840"/>
+<text x="360" y="20" text-anchor="middle" font-family="monospace" font-size="11" fill="#7b7b9a">skills.py</text>
+<line x1="0" y1="32" x2="720" y2="32" stroke="#1c1a38" stroke-width="1"/>
+
+<text x="24" y="58" font-family="monospace" font-size="13" opacity="0"><tspan class="kw">class</tspan><tspan class="cls"> Stack</tspan><tspan class="tx">:</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin=".4s" fill="freeze"/></text>
+
+<text x="24" y="82" font-family="monospace" font-size="13" opacity="0"><tspan class="tx">    languages   </tspan><tspan class="br">= [</tspan><tspan class="str">"Python"</tspan><tspan class="br">, </tspan><tspan class="str">"Java"</tspan><tspan class="br">, </tspan><tspan class="str">"R"</tspan><tspan class="br">, </tspan><tspan class="str">"C++"</tspan><tspan class="br">, </tspan><tspan class="str">"Go"</tspan><tspan class="br">, </tspan><tspan class="str">"SQL"</tspan><tspan class="br">, </tspan><tspan class="str">"CUDA"</tspan><tspan class="br">, </tspan><tspan class="str">"Bash"</tspan><tspan class="br">]</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin=".7s" fill="freeze"/></text>
+
+<text x="24" y="106" font-family="monospace" font-size="13" opacity="0"><tspan class="tx">    ml          </tspan><tspan class="br">= [</tspan><tspan class="str">"PyTorch"</tspan><tspan class="br">, </tspan><tspan class="str">"TensorFlow"</tspan><tspan class="br">, </tspan><tspan class="str">"JAX"</tspan><tspan class="br">, </tspan><tspan class="str">"Scikit-learn"</tspan><tspan class="br">, </tspan><tspan class="str">"Optuna"</tspan><tspan class="br">]</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="1s" fill="freeze"/></text>
+
+<text x="24" y="130" font-family="monospace" font-size="13" opacity="0"><tspan class="tx">    llm         </tspan><tspan class="br">= [</tspan><tspan class="str">"HuggingFace"</tspan><tspan class="br">, </tspan><tspan class="str">"vLLM"</tspan><tspan class="br">, </tspan><tspan class="str">"LoRA"</tspan><tspan class="br">, </tspan><tspan class="str">"LangChain"</tspan><tspan class="br">, </tspan><tspan class="str">"RAG"</tspan><tspan class="br">]</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="1.3s" fill="freeze"/></text>
+
+<text x="24" y="154" font-family="monospace" font-size="13" opacity="0"><tspan class="tx">    inference   </tspan><tspan class="br">= [</tspan><tspan class="str">"TensorRT"</tspan><tspan class="br">, </tspan><tspan class="str">"ONNX"</tspan><tspan class="br">, </tspan><tspan class="str">"Triton"</tspan><tspan class="br">, </tspan><tspan class="str">"DeepSpeed"</tspan><tspan class="br">, </tspan><tspan class="str">"Flash Attn"</tspan><tspan class="br">]</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="1.6s" fill="freeze"/></text>
+
+<text x="24" y="178" font-family="monospace" font-size="13" opacity="0"><tspan class="tx">    agents      </tspan><tspan class="br">= [</tspan><tspan class="str">"LangGraph"</tspan><tspan class="br">, </tspan><tspan class="str">"CrewAI"</tspan><tspan class="br">, </tspan><tspan class="str">"AutoGen"</tspan><tspan class="br">, </tspan><tspan class="str">"Tool-Use"</tspan><tspan class="br">]</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="1.9s" fill="freeze"/></text>
+
+<text x="24" y="202" font-family="monospace" font-size="13" opacity="0"><tspan class="tx">    vision      </tspan><tspan class="br">= [</tspan><tspan class="str">"OpenCV"</tspan><tspan class="br">, </tspan><tspan class="str">"YOLOv8"</tspan><tspan class="br">, </tspan><tspan class="str">"CLIP"</tspan><tspan class="br">, </tspan><tspan class="str">"SAM"</tspan><tspan class="br">, </tspan><tspan class="str">"ViT"</tspan><tspan class="br">, </tspan><tspan class="str">"DINOv2"</tspan><tspan class="br">]</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="2.2s" fill="freeze"/></text>
+
+<text x="24" y="226" font-family="monospace" font-size="13" opacity="0"><tspan class="tx">    data        </tspan><tspan class="br">= [</tspan><tspan class="str">"Spark"</tspan><tspan class="br">, </tspan><tspan class="str">"Kafka"</tspan><tspan class="br">, </tspan><tspan class="str">"Snowflake"</tspan><tspan class="br">, </tspan><tspan class="str">"PostgreSQL"</tspan><tspan class="br">, </tspan><tspan class="str">"MongoDB"</tspan><tspan class="br">]</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="2.5s" fill="freeze"/></text>
+
+<text x="24" y="250" font-family="monospace" font-size="13" opacity="0"><tspan class="tx">    cloud       </tspan><tspan class="br">= [</tspan><tspan class="str">"AWS"</tspan><tspan class="br">, </tspan><tspan class="str">"GCP"</tspan><tspan class="br">, </tspan><tspan class="str">"Azure"</tspan><tspan class="br">, </tspan><tspan class="str">"Databricks"</tspan><tspan class="br">, </tspan><tspan class="str">"Terraform"</tspan><tspan class="br">]</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="2.8s" fill="freeze"/></text>
+
+<text x="24" y="274" font-family="monospace" font-size="13" opacity="0"><tspan class="tx">    ops         </tspan><tspan class="br">= [</tspan><tspan class="str">"Docker"</tspan><tspan class="br">, </tspan><tspan class="str">"K8s"</tspan><tspan class="br">, </tspan><tspan class="str">"MLflow"</tspan><tspan class="br">, </tspan><tspan class="str">"Airflow"</tspan><tspan class="br">, </tspan><tspan class="str">"W&amp;B"</tspan><tspan class="br">]</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="3.1s" fill="freeze"/></text>
+
+<text x="24" y="298" font-family="monospace" font-size="13" opacity="0"><tspan class="tx">    analytics   </tspan><tspan class="br">= [</tspan><tspan class="str">"Tableau"</tspan><tspan class="br">, </tspan><tspan class="str">"Power BI"</tspan><tspan class="br">, </tspan><tspan class="str">"Plotly"</tspan><tspan class="br">, </tspan><tspan class="str">"Matplotlib"</tspan><tspan class="br">]</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="3.4s" fill="freeze"/></text>
+
+<text x="24" y="330" font-family="monospace" font-size="13" opacity="0"><tspan class="tx">    </tspan><tspan class="kw">def</tspan><tspan class="cls"> status</tspan><tspan class="tx">(self):</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="3.7s" fill="freeze"/></text>
+
+<text x="24" y="354" font-family="monospace" font-size="13" opacity="0"><tspan class="tx">        </tspan><tspan class="kw">return</tspan><tspan class="str"> "150+ packages. Weights never frozen."</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="4s" fill="freeze"/></text>
+
+<rect x="480" y="343" width="8" height="14" fill="#b8a5ff" opacity="0">
+  <animate attributeName="opacity" values="0;0;1" dur=".1s" begin="4s" fill="freeze"/>
+  <animate attributeName="opacity" values="1;0;1" dur="1s" begin="4.1s" repeatCount="indefinite"/>
+</rect>
+</svg>

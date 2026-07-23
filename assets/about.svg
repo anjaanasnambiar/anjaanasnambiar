@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 250" width="720" height="250">
+<style>
+  @keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+  .br{fill:#7c6bc4}.fn{fill:#b8a5ff}.tx{fill:#e8e8f0}.dm{fill:#7b7b9a}.gr{fill:#34d399}.st{fill:#93c5fd}
+</style>
+<rect width="720" height="250" fill="#07070f" rx="12"/>
+<rect width="720" height="32" fill="#0d0d1c" rx="12"/><rect y="20" width="720" height="12" fill="#0d0d1c"/>
+<circle cx="18" cy="16" r="5" fill="#ff5f57"/><circle cx="36" cy="16" r="5" fill="#ffbd2e"/><circle cx="54" cy="16" r="5" fill="#28c840"/>
+<text x="360" y="20" text-anchor="middle" font-family="monospace" font-size="11" fill="#7b7b9a">about.py</text>
+<line x1="0" y1="32" x2="720" y2="32" stroke="#1c1a38" stroke-width="1"/>
+
+<!-- model.describe() -->
+<text x="24" y="60" font-family="monospace" font-size="13" opacity="0"><tspan class="br">&gt;&gt;&gt; </tspan><tspan class="tx">model</tspan><tspan class="br">.</tspan><tspan class="fn">describe</tspan><tspan class="br">()</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin=".5s" fill="freeze"/></text>
+
+<!-- Description text - flows as prose -->
+<text x="24" y="92" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" opacity="0"><tspan class="tx">Pre-trained on academia. Fine-tuned on industry. RLHF'd by deadlines.</tspan><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="1.2s" fill="freeze"/></text>
+
+<text x="24" y="114" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" opacity="0"><tspan class="tx">A multi-modal model that takes in messy data and outputs production</tspan><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="1.8s" fill="freeze"/></text>
+
+<text x="24" y="136" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" opacity="0"><tspan class="tx">ML systems. </tspan><tspan class="fn">Temperature:</tspan><tspan class="tx"> high. </tspan><tspan class="fn">Top-k:</tspan><tspan class="tx"> everything. </tspan><tspan class="fn">Beam search:</tspan><tspan class="tx"> always exploring.</tspan><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="2.4s" fill="freeze"/></text>
+
+<!-- model.status() -->
+<text x="24" y="176" font-family="monospace" font-size="13" opacity="0"><tspan class="br">&gt;&gt;&gt; </tspan><tspan class="tx">model</tspan><tspan class="br">.</tspan><tspan class="fn">status</tspan><tspan class="br">()</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="3.2s" fill="freeze"/></text>
+
+<!-- Status response with green -->
+<text x="24" y="204" font-family="monospace" font-size="13" opacity="0"><tspan class="st">"Deployed. Weights never frozen. early_stopping=False"</tspan><animate attributeName="opacity" from="0" to="1" dur=".4s" begin="3.8s" fill="freeze"/></text>
+
+<!-- Green pulse dot -->
+<circle cx="24" cy="232" r="4" fill="#34d399" opacity="0">
+  <animate attributeName="opacity" values="0;0;.5;.3;.5" dur="2s" begin="4.2s" repeatCount="indefinite"/>
+</circle>
+<text x="36" y="236" font-family="monospace" font-size="11" opacity="0"><tspan class="dm">status: </tspan><tspan class="gr">online</tspan><tspan class="dm"> · open to opportunities</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="4.2s" fill="freeze"/></text>
+
+<!-- Blinking cursor -->
+<rect x="340" y="224" width="8" height="14" fill="#b8a5ff" opacity="0">
+  <animate attributeName="opacity" values="0;0;1" dur=".1s" begin="4.2s" fill="freeze"/>
+  <animate attributeName="opacity" values="1;0;1" dur="1s" begin="4.3s" repeatCount="indefinite"/>
+</rect>
+</svg>

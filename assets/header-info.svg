@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 40" width="500" height="40">
+<rect width="500" height="40" fill="#07070f" rx="8"/>
+<circle cx="20" cy="20" r="5" fill="#b8a5ff" opacity=".3"><animate attributeName="opacity" values=".3;.7;.3" dur="2s" repeatCount="indefinite"/></circle>
+<text x="38" y="25" font-family="monospace" font-size="15" opacity="0"><tspan fill="#7c6bc4">&gt;&gt;&gt; </tspan><tspan fill="#e8e8f0">model</tspan><tspan fill="#7c6bc4">.</tspan><tspan fill="#b8a5ff">info</tspan><tspan fill="#7c6bc4">()</tspan><animate attributeName="opacity" from="0" to="1" dur=".6s" begin=".3s" fill="freeze"/></text>
+<rect x="168" y="13" width="2" height="15" fill="#b8a5ff"><animate attributeName="opacity" values="1;0;1" dur="1s" begin="1s" repeatCount="indefinite"/></rect>
+<!-- Data particle -->
+<circle r="2" fill="#b8a5ff" opacity="0"><animateMotion dur="2s" begin="1s" repeatCount="indefinite" path="M200 20 L480 20"/><animate attributeName="opacity" values="0;.5;.5;0" dur="2s" begin="1s" repeatCount="indefinite"/></circle>
+</svg>

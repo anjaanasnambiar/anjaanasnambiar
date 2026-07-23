@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 200" width="840" height="200">
+<style>
+  @keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+  .n{fill:#7c6bc4}.c{stroke:#7c6bc4;stroke-width:.5;fill:none}
+</style>
+<rect width="840" height="200" fill="#07070f" rx="12"/>
+<g opacity=".8">
+  <circle cx="40" cy="60" r="3" class="n"><animate attributeName="opacity" values=".2;.5;.2" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="40" cy="90" r="3" class="n"><animate attributeName="opacity" values=".3;.6;.3" dur="2.5s" repeatCount="indefinite"/></circle>
+  <circle cx="40" cy="120" r="3" class="n"><animate attributeName="opacity" values=".2;.5;.2" dur="3.2s" repeatCount="indefinite"/></circle>
+  <circle cx="40" cy="150" r="3" class="n"><animate attributeName="opacity" values=".25;.5;.25" dur="2.8s" repeatCount="indefinite"/></circle>
+  <circle cx="95" cy="50" r="3" class="n"><animate attributeName="opacity" values=".2;.5;.2" dur="2.7s" repeatCount="indefinite"/></circle>
+  <circle cx="95" cy="75" r="3" class="n"><animate attributeName="opacity" values=".3;.6;.3" dur="3.1s" repeatCount="indefinite"/></circle>
+  <circle cx="95" cy="100" r="3" class="n"><animate attributeName="opacity" values=".25;.5;.25" dur="2.6s" repeatCount="indefinite"/></circle>
+  <circle cx="95" cy="125" r="3" class="n"><animate attributeName="opacity" values=".2;.55;.2" dur="3.3s" repeatCount="indefinite"/></circle>
+  <circle cx="95" cy="150" r="3" class="n"><animate attributeName="opacity" values=".3;.5;.3" dur="2.9s" repeatCount="indefinite"/></circle>
+  <circle cx="150" cy="60" r="3" class="n"><animate attributeName="opacity" values=".25;.55;.25" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="150" cy="90" r="3" class="n"><animate attributeName="opacity" values=".2;.5;.2" dur="2.8s" repeatCount="indefinite"/></circle>
+  <circle cx="150" cy="120" r="3" class="n"><animate attributeName="opacity" values=".3;.6;.3" dur="3.2s" repeatCount="indefinite"/></circle>
+  <circle cx="150" cy="150" r="3" class="n"><animate attributeName="opacity" values=".2;.45;.2" dur="3.4s" repeatCount="indefinite"/></circle>
+  <circle cx="200" cy="75" r="3" class="n"><animate attributeName="opacity" values=".2;.5;.2" dur="2.6s" repeatCount="indefinite"/></circle>
+  <circle cx="200" cy="105" r="3" class="n"><animate attributeName="opacity" values=".3;.55;.3" dur="3.1s" repeatCount="indefinite"/></circle>
+  <circle cx="200" cy="135" r="3" class="n"><animate attributeName="opacity" values=".25;.5;.25" dur="2.9s" repeatCount="indefinite"/></circle>
+  <line x1="40" y1="60" x2="95" y2="50" class="c" opacity=".08"/><line x1="40" y1="60" x2="95" y2="75" class="c" opacity=".08"/>
+  <line x1="40" y1="90" x2="95" y2="75" class="c" opacity=".08"/><line x1="40" y1="90" x2="95" y2="100" class="c" opacity=".08"/>
+  <line x1="40" y1="120" x2="95" y2="100" class="c" opacity=".08"/><line x1="40" y1="120" x2="95" y2="125" class="c" opacity=".08"/>
+  <line x1="40" y1="150" x2="95" y2="125" class="c" opacity=".08"/><line x1="40" y1="150" x2="95" y2="150" class="c" opacity=".08"/>
+  <line x1="95" y1="50" x2="150" y2="60" class="c" opacity=".08"/><line x1="95" y1="75" x2="150" y2="60" class="c" opacity=".08"/>
+  <line x1="95" y1="75" x2="150" y2="90" class="c" opacity=".08"/><line x1="95" y1="100" x2="150" y2="90" class="c" opacity=".08"/>
+  <line x1="95" y1="100" x2="150" y2="120" class="c" opacity=".08"/><line x1="95" y1="125" x2="150" y2="120" class="c" opacity=".08"/>
+  <line x1="95" y1="125" x2="150" y2="150" class="c" opacity=".08"/><line x1="95" y1="150" x2="150" y2="150" class="c" opacity=".08"/>
+  <line x1="150" y1="60" x2="200" y2="75" class="c" opacity=".08"/><line x1="150" y1="90" x2="200" y2="75" class="c" opacity=".08"/>
+  <line x1="150" y1="90" x2="200" y2="105" class="c" opacity=".08"/><line x1="150" y1="120" x2="200" y2="105" class="c" opacity=".08"/>
+  <line x1="150" y1="120" x2="200" y2="135" class="c" opacity=".08"/><line x1="150" y1="150" x2="200" y2="135" class="c" opacity=".08"/>
+  <circle r="2" fill="#b8a5ff"><animateMotion dur="2.5s" repeatCount="indefinite" path="M40 60 L95 75 L150 90 L200 75"/><animate attributeName="opacity" values="0;.7;.7;0" dur="2.5s" repeatCount="indefinite"/></circle>
+  <circle r="2" fill="#93c5fd"><animateMotion dur="3s" begin="1s" repeatCount="indefinite" path="M40 120 L95 100 L150 120 L200 105"/><animate attributeName="opacity" values="0;.6;.6;0" dur="3s" begin="1s" repeatCount="indefinite"/></circle>
+  <circle r="1.5" fill="#e0aaff"><animateMotion dur="3.5s" begin="2s" repeatCount="indefinite" path="M40 150 L95 150 L150 150 L200 135"/><animate attributeName="opacity" values="0;.5;.5;0" dur="3.5s" begin="2s" repeatCount="indefinite"/></circle>
+</g>
+<text x="250" y="72" font-family="'Segoe UI',system-ui,sans-serif" font-weight="700" font-size="32" fill="#e8e8f0" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin=".5s" fill="freeze"/>Anjana S Nambiar</text>
+<text x="250" y="100" font-family="monospace" font-size="14" fill="#b8a5ff" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".6s" begin="1s" fill="freeze"/>AI/ML Engineer — New Grad</text>
+<text x="250" y="134" font-family="monospace" font-size="11" fill="#7b7b9a" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".4s" begin="1.5s" fill="freeze"/>$ python3 portfolio.py</text>
+<text x="250" y="152" font-family="monospace" font-size="11" fill="#7b7b9a" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".4s" begin="2s" fill="freeze"/>>>> model = Portfolio.load(weights='latest')</text>
+<text x="250" y="170" font-family="monospace" font-size="11" fill="#93c5fd" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".4s" begin="2.5s" fill="freeze"/>✓ Deployed. early_stopping=False</text>
+<rect x="505" y="160" width="7" height="12" fill="#b8a5ff" opacity="0"><animate attributeName="opacity" values="0;0;1" dur=".1s" begin="2.5s" fill="freeze"/><animate attributeName="opacity" values="1;0;1" dur="1s" begin="2.6s" repeatCount="indefinite"/></rect>
+<circle cx="680" cy="100" r="4" fill="#34d399" opacity="0"><animate attributeName="opacity" values="0;.5;.3;.5" dur="2s" begin="3s" repeatCount="indefinite"/></circle>
+<text x="692" y="104" font-family="monospace" font-size="11" fill="#7b7b9a" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".4s" begin="3s" fill="freeze"/>open to opportunities</text>
+</svg>

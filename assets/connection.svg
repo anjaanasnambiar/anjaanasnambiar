@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" width="720" height="260">
+<style>
+  @keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+  .kw{fill:#e0aaff}.str{fill:#93c5fd}.br{fill:#7c6bc4}.tx{fill:#e8e8f0}.fn{fill:#b8a5ff}
+</style>
+<rect width="720" height="260" fill="#07070f" rx="12"/>
+<rect width="720" height="32" fill="#0d0d1c" rx="12"/><rect y="20" width="720" height="12" fill="#0d0d1c"/>
+<circle cx="18" cy="16" r="5" fill="#ff5f57"/><circle cx="36" cy="16" r="5" fill="#ffbd2e"/><circle cx="54" cy="16" r="5" fill="#28c840"/>
+<text x="360" y="20" text-anchor="middle" font-family="monospace" font-size="11" fill="#7b7b9a">connect.py</text>
+<line x1="0" y1="32" x2="720" y2="32" stroke="#1c1a38" stroke-width="1"/>
+<text x="24" y="62" font-family="monospace" font-size="13" opacity="0"><tspan class="br">&gt;&gt;&gt; </tspan><tspan class="tx">connection </tspan><tspan class="br">= </tspan><tspan class="fn">Connection</tspan><tspan class="br">(</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin=".5s" fill="freeze"/></text>
+<text x="24" y="88" font-family="monospace" font-size="13" opacity="0"><tspan class="br">...     </tspan><tspan class="tx">protocol </tspan><tspan class="br">= [</tspan><tspan class="str">"Collaboration"</tspan><tspan class="br">, </tspan><tspan class="str">"Research"</tspan><tspan class="br">, </tspan><tspan class="str">"Innovation"</tspan><tspan class="br">],</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="1s" fill="freeze"/></text>
+<text x="24" y="114" font-family="monospace" font-size="13" opacity="0"><tspan class="br">...     </tspan><tspan class="tx">channel  </tspan><tspan class="br">= [</tspan><tspan class="str">"Artificial Intelligence"</tspan><tspan class="br">, </tspan><tspan class="str">"Data Science"</tspan><tspan class="br">, </tspan><tspan class="str">"Analytics"</tspan><tspan class="br">],</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="1.5s" fill="freeze"/></text>
+<text x="24" y="140" font-family="monospace" font-size="13" opacity="0"><tspan class="br">... )</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="2s" fill="freeze"/></text>
+<text x="24" y="168" font-family="monospace" font-size="13" opacity="0"><tspan class="br">&gt;&gt;&gt; </tspan><tspan class="tx">connection</tspan><tspan class="br">.</tspan><tspan class="fn">initiate</tspan><tspan class="br">()</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="2.5s" fill="freeze"/></text>
+<!-- Processing dots -->
+<circle cx="24" cy="192" r="2" fill="#b8a5ff" opacity="0"><animate attributeName="opacity" values="0;.7;0" dur=".5s" begin="3s" repeatCount="3"/></circle>
+<circle cx="34" cy="192" r="2" fill="#b8a5ff" opacity="0"><animate attributeName="opacity" values="0;.7;0" dur=".5s" begin="3.12s" repeatCount="3"/></circle>
+<circle cx="44" cy="192" r="2" fill="#b8a5ff" opacity="0"><animate attributeName="opacity" values="0;.7;0" dur=".5s" begin="3.25s" repeatCount="3"/></circle>
+<!-- Signal bar -->
+<rect x="24" y="206" width="672" height="3" rx="1.5" fill="#1c1a38" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".2s" begin="4.5s" fill="freeze"/></rect>
+<rect x="24" y="206" width="0" height="3" rx="1.5" fill="#b8a5ff" opacity="0">
+  <animate attributeName="opacity" from="0" to=".6" dur=".2s" begin="4.5s" fill="freeze"/>
+  <animate attributeName="width" from="0" to="672" dur=".8s" begin="4.5s" fill="freeze"/>
+</rect>
+<!-- Result -->
+<text x="24" y="240" font-family="monospace" font-size="13" opacity="0"><tspan fill="#34d399">&#x2713;</tspan><tspan fill="#e8e8f0"> "Neural handshake complete. Ready for inference."</tspan><animate attributeName="opacity" from="0" to="1" dur=".4s" begin="5.5s" fill="freeze"/></text>
+<!-- Green pulse -->
+<circle cx="490" cy="234" r="4" fill="#34d399" opacity="0">
+  <animate attributeName="opacity" values="0;0;.5;.3;.5" dur="2s" begin="5.5s" repeatCount="indefinite"/>
+</circle>
+<rect x="504" y="228" width="8" height="14" fill="#b8a5ff" opacity="0"><animate attributeName="opacity" values="0;0;1" dur=".1s" begin="5.5s" fill="freeze"/><animate attributeName="opacity" values="1;0;1" dur="1s" begin="5.6s" repeatCount="indefinite"/></rect>
+</svg>
