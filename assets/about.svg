@@ -13,17 +13,17 @@
 <text x="24" y="60" font-family="monospace" font-size="13" opacity="0"><tspan class="br">&gt;&gt;&gt; </tspan><tspan class="tx">model</tspan><tspan class="br">.</tspan><tspan class="fn">describe</tspan><tspan class="br">()</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin=".5s" fill="freeze"/></text>
 
 <!-- Description text - flows as prose -->
-<text x="24" y="92" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" opacity="0"><tspan class="tx">Pre-trained on academia. Fine-tuned on industry. RLHF'd by deadlines.</tspan><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="1.2s" fill="freeze"/></text>
+<text x="24" y="92" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" opacity="0"><tspan class="tx">Pre-trained on academia. Fine-tuned on industry. RLHF'd by deadlines.</tspan><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="1.2s" fill="freeze"/></text>
 
-<text x="24" y="114" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" opacity="0"><tspan class="tx">A multi-modal model that takes in messy data and outputs production</tspan><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="1.8s" fill="freeze"/></text>
+<text x="24" y="114" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" opacity="0"><tspan class="tx">A multi-modal model that takes in messy data and outputs production</tspan><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="1.8s" fill="freeze"/></text>
 
-<text x="24" y="136" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" opacity="0"><tspan class="tx">ML systems. </tspan><tspan class="fn">Temperature:</tspan><tspan class="tx"> high. </tspan><tspan class="fn">Top-k:</tspan><tspan class="tx"> everything. </tspan><tspan class="fn">Beam search:</tspan><tspan class="tx"> always exploring.</tspan><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="2.4s" fill="freeze"/></text>
+<text x="24" y="136" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" opacity="0"><tspan class="tx">ML systems. </tspan><tspan class="fn">Temperature:</tspan><tspan class="tx"> high. </tspan><tspan class="fn">Top-k:</tspan><tspan class="tx"> everything. </tspan><tspan class="fn">Beam search:</tspan><tspan class="tx"> always exploring.</tspan><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="2.4s" fill="freeze"/></text>
 
 <!-- model.status() -->
 <text x="24" y="176" font-family="monospace" font-size="13" opacity="0"><tspan class="br">&gt;&gt;&gt; </tspan><tspan class="tx">model</tspan><tspan class="br">.</tspan><tspan class="fn">status</tspan><tspan class="br">()</tspan><animate attributeName="opacity" from="0" to="1" dur=".3s" begin="3.2s" fill="freeze"/></text>
 
 <!-- Status response with green -->
-<text x="24" y="204" font-family="monospace" font-size="13" opacity="0"><tspan class="st">"Deployed. Weights never frozen. early_stopping=False"</tspan><animate attributeName="opacity" from="0" to="1" dur=".4s" begin="3.8s" fill="freeze"/></text>
+<text x="24" y="204" font-family="monospace" font-size="12" opacity="0"><tspan class="st">"Deployed. Weights never frozen. early_stopping=False"</tspan><animate attributeName="opacity" from="0" to="1" dur=".4s" begin="3.8s" fill="freeze"/></text>
 
 <!-- Green pulse dot -->
 <circle cx="24" cy="232" r="4" fill="#34d399" opacity="0">
